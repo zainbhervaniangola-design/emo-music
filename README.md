@@ -159,4 +159,5 @@ If you encounter issues, please open a GitHub issue.
 
 ---
 
-**Made with ❤️ by zainbhervaniangola-design**
+**COPYRIGHT ARE NOT ALLOWED**
+**Made by zainbhervaniangola-design**
