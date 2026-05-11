@@ -155,9 +155,10 @@ Feel free to fork and submit pull requests!
 
 ## 📧 Support
 
-If you encounter issues, please open a GitHub issue.
+If you encounter issues, please open a GitHub issue or join our Discord Community And Make a Tickit https://discord.gg/7qc5T6XHVP.
 
 ---
 
 **COPYRIGHT ARE NOT ALLOWED**
-**Made by zainbhervaniangola-design**
+
+**Made by emo_y2k**
